@@ -22,7 +22,7 @@ kyungryun:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:        kyungryun
+    facebook:        kyung_ryun
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
@@ -58,7 +58,7 @@ kyungryun:
     # stumbleupon:     <username>
     # paypal:          <username>
     # email:           mailto:snugyun01@gmail.com
-    #rss:             https://zzsza.github.io/feed.xml
+    # rss:             https://zzsza.github.io/feed.xml
 
 # Another author
 mdo:
