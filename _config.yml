@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               
+title:               test blog
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -26,7 +26,7 @@ author:
   email:             kyung_ryun@naver.com
 
 # Fallback image and color
-image:               /assets/img/profile.jpg
+image:               /assets/img/nap.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
