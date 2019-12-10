@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Book
-slug: book
-category: etc
+title: TIL
+slug: til
+category: diary
 menu: false
 order: 2
 ---

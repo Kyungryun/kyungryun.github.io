@@ -3,8 +3,8 @@ layout: list
 title: Diary
 slug: diary
 menu: true
-submenu: false
+submenu: true
 order: 1
 description: >
-  일기장
+  일기장 & Today I Learned (TIL)
 ---

@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: BigQuery
-slug: BigQuery
-category: gcp
+title: SWEA
+slug: swea
+category: algorithm
 menu: false
 order: 2
 ---

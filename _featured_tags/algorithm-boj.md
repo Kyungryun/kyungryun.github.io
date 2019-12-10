@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Lecture
-slug: lecture
-category: etc
+title: BOJ
+slug: boj
+category: algorithm
 menu: false
 order: 1
 ---

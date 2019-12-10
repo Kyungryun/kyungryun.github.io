@@ -1,10 +1,10 @@
 ---
 layout: list
-title: MLOps
-slug: mlops
+title: Algorithm
+slug: algorithm
 menu: true
 submenu: true
 order: 3
 description: >
-  ML + DevOps = MLOps
+  알고리즘 공부 공간
 ---

@@ -3,8 +3,8 @@ layout: list
 title: ETC
 slug: etc
 menu: true
-submenu: true
-order: 6
+submenu: false
+order: 3
 description: >
   기타 정보
 ---
