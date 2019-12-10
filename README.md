@@ -1,7 +1,7 @@
 
 ## Github Blog
 - [https://kyungryun.github.io](https://kyungryun.github.io)
-- 이 블로그는 [변성윤](https://github.com/zzsza/zzsza.github.io)님 블로그 테마를 기반으로 제작되었습니다
+- 이 블로그는 [변성윤](https://github.com/zzsza/zzsza.github.io)님 블로그 테마를 Fork하여 만들었습니다.
 
 ### Structure
 - 다른 분들이 이 테마를 Fork할 경우, 사용할 수 있도록 블로그 구조에 대해 설명합니다
