@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "19 하반기 KB국민은행 ICT 공채 면접 후기"
+title: "19 하반기 KB국민은행 ICT 공채 후기"
 subtitle: ""
 categories: etc
 tags: interview
 comments: true
 ---
-
-## 19 하반기 KB 국민은행 ICT 직군 공채 후기 
+**최대한 자세하게 쓰려고 하지만 문제의 소지가 있는 부분은 삭제될 수 있습니다.**  
 
 --- 
-**최대한 자세하게 쓰려고 하지만 문제의 소지가 있는 부분은 삭제될 수 있습니다.**  
 
 <img src='/assets/img/kb/process.png'>  
 
