@@ -6,5 +6,5 @@ menu: true
 submenu: true
 order: 1
 description: >
-  일기장 & Today I Learned (TIL)
+  일기장
 ---
