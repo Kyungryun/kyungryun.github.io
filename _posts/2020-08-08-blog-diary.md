@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "블로그 시작"
-subtitle:   "블로그 시작"
+title:  "8개월차 신입 근황"
+subtitle:   "근황"
 categories: diary
 tags: diary
 comments: true
 ---
-- 블로그 시작  
 
-8개월만에 첫 글인듯..?
+8개월만에 글인듯..?
 
 오랜만에 코드쓸일이 있어 다시 들러봤는데, 작년 12월에 하려고 했던 것들 중 제대로 한게 하나도 없는 것 같다.
 
