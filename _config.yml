@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               개발 좋아하는 주니어 개발자
+title:               개발 하고 싶은 엔지니어
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -18,7 +18,7 @@ tagline:             Software Engineer
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  개발을 좋아하는 주니어 개발자입니다.                   
+  개발을 하고 싶어 하는 엔지니어입니다.                   
   
 
 # This should be the same author as first entry in `_data/authors.yml`
